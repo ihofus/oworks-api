@@ -1,0 +1,12 @@
+{
+    "name": "oworks.lt/oworks-api",
+    "description": "endpoints for variuos projects",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ovidijus",
+            "email": "ovidijus.na@gmail.com"
+        }
+    ],
+    "require": {}
+}
